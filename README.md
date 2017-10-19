@@ -11,4 +11,6 @@ ETL_2.py - MySQL database normalization
 
 API.py - creates API with Flask to acess the database
 
+SQl Scheme - database scheme
+
 Example: http://localhost:5000/jobs/London returns all the open jobs in London
